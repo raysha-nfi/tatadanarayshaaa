@@ -1,0 +1,77 @@
+[
+  {
+    "id": "reg-1792835676227",
+    "full_name": "salwa",
+    "username": "salwa@uniga.ac.id",
+    "phone_number": "0851788888",
+    "email": "naonw@gmail.com",
+    "password": "rey123",
+    "status": "pending",
+    "created_at": "2026-10-24T09:54:36.227Z",
+    "verified_at": null,
+    "verified_by": null,
+    "notes": "Pendaftar baru — menunggu konfirmasi WhatsApp ke admin"
+  },
+  {
+    "id": "reg-1792835172960",
+    "full_name": "reyy",
+    "username": "reyysha",
+    "phone_number": "085797805675",
+    "email": "rayshaica62@gmail.com",
+    "password": "reyy123",
+    "status": "verified",
+    "created_at": "2026-10-24T09:46:12.961Z",
+    "verified_at": "2026-10-24T09:49:09.238Z",
+    "verified_by": "Super Admin",
+    "notes": "Diverifikasi langsung oleh Superadmin via WhatsApp"
+  },
+  {
+    "id": "reg-1792835035808",
+    "full_name": "Test Pendaftar",
+    "username": "test_user_wa",
+    "phone_number": "081399887711",
+    "email": "test_user_wa@tatadana.id",
+    "password": "default123",
+    "status": "verified",
+    "created_at": "2026-10-24T09:43:55.808Z",
+    "verified_at": "2026-10-24T09:44:03.616Z",
+    "verified_by": "Super Admin",
+    "notes": "Pendaftar baru — menunggu konfirmasi WhatsApp ke admin"
+  },
+  {
+    "id": "reg-01",
+    "full_name": "Ahmad Fauzi",
+    "username": "ahmad_fauzi",
+    "phone_number": "081234567891",
+    "email": "ahmad.fauzi@gmail.com",
+    "status": "pending",
+    "created_at": "2026-10-24T14:15:00+07:00",
+    "verified_at": null,
+    "verified_by": null,
+    "notes": "Menunggu verifikasi chat WA"
+  },
+  {
+    "id": "reg-02",
+    "full_name": "Dewi Lestari",
+    "username": "dewi_lestari",
+    "phone_number": "085799887766",
+    "email": "dewi.lestari@gmail.com",
+    "status": "pending",
+    "created_at": "2026-10-24T15:20:00+07:00",
+    "verified_at": null,
+    "verified_by": null,
+    "notes": "Pendaftar baru via Telegram promo"
+  },
+  {
+    "id": "reg-03",
+    "full_name": "Fajar Nugraha",
+    "username": "fajar_nugraha",
+    "phone_number": "087812345678",
+    "email": "fajar.nugraha@gmail.com",
+    "status": "verified",
+    "created_at": "2026-10-24T10:00:00+07:00",
+    "verified_at": "2026-10-24T10:05:00+07:00",
+    "verified_by": "Super Admin",
+    "notes": "Diverifikasi via WhatsApp"
+  }
+]
